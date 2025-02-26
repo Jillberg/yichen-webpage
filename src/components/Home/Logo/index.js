@@ -9,7 +9,23 @@ const Logo = () => {
     const outlineLogoRef=useRef();
     const solidLogoRef=useRef();
 
-    useEffect(() => {
+   
+
+
+    return (
+        <div className="logo-container" ref={bgRef}>
+            
+            <img src="dog1.png" alt="Floppy Corgi" class="animated-dog"></img>
+        </div>
+    )
+}
+
+
+
+export default Logo;
+
+/*
+ useEffect(() => {
         gsap.registerPlugin(DrawSVGPlugin)
 
         gsap
@@ -36,19 +52,9 @@ const Logo = () => {
     },[])
 
 
-    return (
-        <div className="logo-container" ref={bgRef}>
-            
-            <img src="dog1.png" alt="Floppy Corgi" class="animated-dog"></img>
-        </div>
-    )
-}
 
 
-
-export default Logo;
-
-/*<svg
+<svg
                 width="559pt"
                 height="897pt"
                 version="1.0"
