@@ -12,7 +12,7 @@ const Logo = () => {
     return (
         <div className="logo-container" ref={bgRef}>
             
-            <img src="dog1.png" alt="Floppy Corgi" class="animated-dog"></img>
+            <img src="../../../assets/images/dog2.png" alt="Floppy Corgi" class="animated-dog"></img>
         </div>
     )
 }
