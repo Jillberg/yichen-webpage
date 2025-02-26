@@ -1,13 +1,10 @@
 import './index.scss';
-import { useEffect, useRef } from 'react';
-import gsap from 'gsap-trial';
-import  {DrawSVGPlugin } from 'gsap-trial/DrawSVGPlugin';
+import {  useRef } from 'react';
 
 const Logo = () => {
 
     const bgRef=useRef();
-    const outlineLogoRef=useRef();
-    const solidLogoRef=useRef();
+
 
    
 
