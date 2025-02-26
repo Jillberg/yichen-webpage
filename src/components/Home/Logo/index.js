@@ -1,5 +1,4 @@
 import './index.scss';
-import LogoS from "../../../assets/images/logo-s.png";
 import { useEffect, useRef } from 'react';
 import gsap from 'gsap-trial';
 import  {DrawSVGPlugin } from 'gsap-trial/DrawSVGPlugin';
@@ -40,7 +39,7 @@ const Logo = () => {
     return (
         <div className="logo-container" ref={bgRef}>
             
-            <img src="dog1.png" class="animated-dog"></img>
+            <img src="dog1.png" alt="Floppy Corgi" class="animated-dog"></img>
         </div>
     )
 }
