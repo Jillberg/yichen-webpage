@@ -1,25 +1,25 @@
 {
     "portfolio":[
         {
-            "cover":"/portfolio/1/corgi.png",
+            "cover":"/yichen-webpage/portfolio/1/corgi.png",
             "title":"Floppy Corgi",
             "description":"My first ever game",
             "url":"https://hund7777.itch.io/floppy-corgi"
         },
         {
-            "cover":"/portfolio/2/mygame2.png",
+            "cover":"/yichen-webpage/portfolio/2/mygame2.png",
             "title":"Snake Odyssey",
             "description":"A pixel art game inspired by the classic Snake and Vampire Survivor",
             "url":"https://hund7777.itch.io/sneka"
         },
         {
-            "cover":"/portfolio/1/opening.png",
+            "cover":"/yichen-webpage/portfolio/1/opening.png",
             "title":"Call of the Castle Nyxaris",
             "description":"A UE5 VR project set in a mysterious world with immersive weather effects",
             "url":"https://liuonline-my.sharepoint.com/:u:/g/personal/yiczh573_student_liu_se/Efd3QzlOIAVLpPLrNpEbjG4B4eg4MYZPKol_S3xq9WyEBA?e=YPKYzn"
         },
         {
-            "cover":"/portfolio/2/gamejam3.png",
+            "cover":"/yichen-webpage/portfolio/2/gamejam3.png",
             "title":"Lemurs vs ground strike drone",
             "description":"Made with friends during Liu game jam 2024, an asymmetrical multiplayer game with the drone side played on oscilloscope. :) ",
             "url":"https://jemapelle.itch.io/lemurs-vs-ground-strike-drone"
