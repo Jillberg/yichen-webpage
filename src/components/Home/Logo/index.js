@@ -1,5 +1,6 @@
 import './index.scss';
 import {  useRef } from 'react';
+import dog from "../../../assets/images/dog2.png";
 
 const Logo = () => {
 
@@ -12,7 +13,7 @@ const Logo = () => {
     return (
         <div className="logo-container" ref={bgRef}>
             
-            <img src="dog1.png" alt="Floppy Corgi" class="animated-dog"></img>
+            <img src={dog} alt="Floppy Corgi" className="animated-dog"></img>
         </div>
     )
 }
