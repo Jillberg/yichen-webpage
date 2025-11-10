@@ -32,7 +32,7 @@ const About =() =>{
                         />
                     </h1>
                     <p>
-                        I am a graduate student studying Computer Science at Linköping University, Sweden. I have a passion for video games and am always looking for new challenges. I have experience in game development and web development, and I am eager to expand my skills further. I am always seeking new opportunities to learn and grow as a developer.
+                        I am a graduate student studying Computer Science at Linköping University, Sweden. I have a passion for video games and am always looking for new challenges. I have experience in game development and web development, and I am eager to expand my skills further. I am always seeking new opportunities to learn and grow as a developer. I have been working at  <a href="https://www.landellgames.com/" target="_blank" rel="noopener noreferrer">Landell Games</a>  as a Part Time Game Programmer since May, 2025 and at   <a href="https://pugstorm.eu/" target="_blank" rel="noopener noreferrer"> Pugstorm Studio</a>  as a thesis worker since Sptember, 2025. I have also been working on my own projects in my free time.
                     </p>
                     <p>
                         Aside from games, I also enjoy thought-provoking works in other media, including movies, books, and music. I don't limit myself to being just a programmer; as video games are an all-encompassing form of art, I continuously expand my repertoire to include cross-disciplinary skills essential for game development.

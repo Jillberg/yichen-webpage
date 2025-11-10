@@ -23,7 +23,27 @@
             "title":"Lemurs vs ground strike drone",
             "description":"Made with friends during Liu game jam 2024, an asymmetrical multiplayer game with the drone side played on oscilloscope. :) ",
             "url":"https://jemapelle.itch.io/lemurs-vs-ground-strike-drone"
+        },
+
+        {
+            "cover":"/yichen-webpage/portfolio/2/Hanafuda.png",
+            "title":"Hanafuda Hand",
+            "description":"Card matching game played with japanese playing cards hanafuda rule set ",
+            "url":"https://hund7777.itch.io/hanafuda-hand"
+        },
+        {
+            "cover":"/yichen-webpage/portfolio/2/Aichan.png",
+            "title":"Idol Master Ai Chan(In Chinese)",
+            "description":"Helping Ai Chan become the top Utuber as her manager!",
+            "url":"https://hund7777.itch.io/idolmaster-aichan"
+        },
+        {
+            "cover":"/yichen-webpage/portfolio/2/DevineMania.png",
+            "title":"Devine Mania(WIP)",
+            "description":"Playing as one of the ancient gods to reclaim your lost glory",
+            "url":"https://github.com/Jillberg/Theomania"
         }
+
         
     ]
 }
