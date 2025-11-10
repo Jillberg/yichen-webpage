@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yichen-webpage/static/css/main.2b327d7f.css",
-    "main.js": "/yichen-webpage/static/js/main.aaa06ab6.js",
+    "main.css": "/yichen-webpage/static/css/main.2658bcd8.css",
+    "main.js": "/yichen-webpage/static/js/main.b2aa058b.js",
     "static/js/453.b3faef14.chunk.js": "/yichen-webpage/static/js/453.b3faef14.chunk.js",
     "static/media/dog1.png": "/yichen-webpage/static/media/dog1.6fa7b4a5e67aff6ad8ae.png",
     "static/media/dog2.png": "/yichen-webpage/static/media/dog2.bc1e12099913f8fdd853.png",
@@ -11,12 +11,12 @@
     "static/media/logo-c.png": "/yichen-webpage/static/media/logo-c.ab4797a7ea93bfcca591.png",
     "static/media/CoolveticaRg-Regular.woff2": "/yichen-webpage/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/yichen-webpage/index.html",
-    "main.2b327d7f.css.map": "/yichen-webpage/static/css/main.2b327d7f.css.map",
-    "main.aaa06ab6.js.map": "/yichen-webpage/static/js/main.aaa06ab6.js.map",
+    "main.2658bcd8.css.map": "/yichen-webpage/static/css/main.2658bcd8.css.map",
+    "main.b2aa058b.js.map": "/yichen-webpage/static/js/main.b2aa058b.js.map",
     "453.b3faef14.chunk.js.map": "/yichen-webpage/static/js/453.b3faef14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b327d7f.css",
-    "static/js/main.aaa06ab6.js"
+    "static/css/main.2658bcd8.css",
+    "static/js/main.b2aa058b.js"
   ]
 }
